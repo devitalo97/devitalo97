@@ -9,7 +9,7 @@ I have been working in the market for just over a year. I work as a TechLead and
 * 🌍  I'm based in Fortaleza-CE
 * ✉️  You can contact me at [dev.italo.souza@gmail.com](mailto:dev.italo.souza@gmail.com)
 * 🚀  I'm currently working on [Prast](http://prast.app)
-* 🧠  I'm learning Clean Architecture, TDD,
+* 🧠  I'm learning Clean Architecture, TDD
 
 ### Skills
 
