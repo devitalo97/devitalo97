@@ -6,7 +6,7 @@ Full Stack Developer
 
 I have been working in the market for two years. Today I work as a Tech Lead and it is part of my routine to organize activities and sprints, development of api's, user interfaces, infrastructure, database.
 
-* 🌍  I'm based in Fotaleza-CE
+* 🌍  I'm based in Caxias do Sul - RS
 * ✉️  You can contact me at [dev.italo.souza@gmail.com](mailto:dev.italo.souza@gmail.com)
 * 🚀  I'm currently working on [prast](http://prast.app)
 * 🧠  I'm learning Clean Architecture, TDD
