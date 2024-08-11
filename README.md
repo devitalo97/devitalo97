@@ -8,7 +8,7 @@ I have been working in the market for two years. Today I work as a Tech Lead and
 
 * 🌍  I'm based in Caxias do Sul - RS
 * ✉️  You can contact me at [dev.italo.souza@gmail.com](mailto:dev.italo.souza@gmail.com)
-* 🚀  I'm currently working on [prast](http://prast.app)
+* 🚀  I'm currently working on [btrace](https://btrace.app)
 * 🧠  I'm learning Clean Architecture, TDD
 * ⚡  I am an enthusiast of cryptocurrencies and decentralized environments
 
