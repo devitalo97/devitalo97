@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Italo de Souza</h1>
-<h3 align="center">Principal Engineer • Distributed Systems Architect • IoT & Event Streaming Specialist</h3>
+<h3 align="center">Principal Engineer | Software Architect | Cloud, IoT & Distributed Systems</h3>
 
 ---
 
